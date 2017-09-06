@@ -1,0 +1,4 @@
+
+<?=Config::loadJs() ?>
+</body>
+</html>
